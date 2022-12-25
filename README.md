@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div id="badges">
+  <a href="https://codeberg.org/BluePixel4k">
+    <img src="https://img.shields.io/badge/Codeberg.org-blue?logo=Codeberg&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://floss.social/@BluePixel4k">
+    <img src="https://img.shields.io/badge/Mastodon-5944d8?logo=mastodon&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
 <!--
 **BluePixel4k/BluePixel4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
